@@ -14,10 +14,10 @@
 
 <h3 align='right'>
   
-[12CS-Data-Analysis-Case-Studies-with-Python](https://github.com/celik-muhammed/12CS-Data-Analysis-Case-Studies-with-Python/blob/master/README.md)
+[30CS-Data-Analysis-Case-Studies-with-Tableau](https://github.com/celik-muhammed/30CS-Data-Analysis-Case-Studies-with-Tableau/blob/master/README.md)
 </h3>
 
-| <h2 alin='center'>Data Analysis Projects with Python</h2> |
+| <h2 alin='center'>Data Analysis Projects with Tableau</h2> |
 |:--|
 | [<img src="https://www.tableau.com/favicon.ico" alt="linux" height=12> Tableau Page](https://public.tableau.com/app/profile/celikmuhammed) | Tableau |
 | [99. draft ](./draft ) | [](#) |
