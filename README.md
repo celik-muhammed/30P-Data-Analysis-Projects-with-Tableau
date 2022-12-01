@@ -11,12 +11,3 @@
 [medium]: https://celik-muhammed.medium.com/ "Medium Page"
 [github_pages]: https://celik-muhammed.github.io/ "GitHub Pages"
 </div>
-
-
-<h3 align='right'>
-  
-[30CS-Data-Analysis-Case-Studies-with-Tableau](https://github.com/celik-muhammed/30CS-Data-Analysis-Case-Studies-with-Tableau/blob/master/README.md)
-</h3>
-
-
-# [Tableau Page](https://public.tableau.com/app/profile/celikmuhammed#Favorites)
