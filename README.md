@@ -19,4 +19,4 @@
 </h3>
 
 
-# [Giphub Tableau Page](https://celik-muhammed.github.io/30P-Data-Analysis-Projects-with-Tableau/)
+# [GitHub Tableau Page](https://celik-muhammed.github.io/30P-Data-Analysis-Projects-with-Tableau/)
