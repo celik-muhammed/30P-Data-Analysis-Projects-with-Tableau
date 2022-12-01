@@ -19,19 +19,4 @@
 </h3>
 
 
-
-<table align="center">
-    <caption><div align='center'>Data Analysis Projects with Tableau</div></caption>
-<thead align='left'><tr><th><img src="https://www.tableau.com/favicon.ico" alt="linux" height=12> Tableau</th></tr></thead>
-<tbody>
-<tr>
-  <td>
-    <a href="#">01. Tableau</a>
-  </td>
-</tr>
-</tbody>
-  
-<tfoot>
-  <tr><td>draft</td></tr>
-</tfoot>
-</table>
+# [Giphub Tableau Page](https://celik-muhammed.github.io/30P-Data-Analysis-Projects-with-Tableau/)
