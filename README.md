@@ -24,7 +24,7 @@
 
 <tbody>
 <tr>
-    <td>
+    <td width= 25%>
         <!-- paste dashboard link from share and paste page link in a tag -->
         <div class='tableauPlaceholder' id='viz1669979655948' style='position: relative'><noscript><a
                     href='https://public.tableau.com/app/profile/celikmuhammed/viz/GlobalCOVID-19TrackerProject-DataWorld/Dashboard'><img
@@ -47,7 +47,7 @@
                 <param name='language' value='en-US' />
             </object></div>
     </td>
-    <td>
+    <td width= 25%>
         <!-- paste dashboard link from share and paste page link in a tag -->
         <div class='tableauPlaceholder' id='viz1669979757588' style='position: relative'><noscript><a
                     href='https://public.tableau.com/app/profile/celikmuhammed/viz/UnitedStatesWikipediaProject/UnitedStates'><img
@@ -70,7 +70,7 @@
                 <param name='language' value='en-US' />
             </object></div>
     </td>
-    <td>
+    <td width= 25%>
         <!-- paste dashboard link from share and paste page link in a tag -->
         <div class='tableauPlaceholder' id='viz1669979865629' style='position: relative'><noscript><a
                     href='https://public.tableau.com/app/profile/celikmuhammed/viz/AnalysingtheSuperstoreSalesDatasetUsingTableau_16694001808990/Story1'><img
@@ -100,7 +100,7 @@
 <thead align='left'><tr><th>Case Studies</th></tr></thead>
 <tbody>
 <tr>
-    <td>
+    <td width= 25%>
         <!-- paste dashboard link from share and paste page link in a tag -->
         <div class='tableauPlaceholder' id='viz1669979803888' style='position: relative'><noscript><a
                     href='https://public.tableau.com/app/profile/celikmuhammed/viz/NintendoSwitchSoftwareandHardwareSalesComparisonBetween2017and2020/Dashboard1'><img
@@ -124,7 +124,7 @@
                 <param name='language' value='en-US' />
             </object></div>
     </td>
-    <td>
+    <td width= 25%>
         <!-- paste dashboard link from share and paste page link in a tag -->
         <div class='tableauPlaceholder' id='viz1669979831579' style='position: relative'><noscript><a
                     href='https://public.tableau.com/app/profile/celikmuhammed/viz/2020W45DedicatedVideoGameSalesUnits_16582323979720/Dashboard1'><img
