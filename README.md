@@ -20,7 +20,7 @@
 
 <table align="center">
     <caption><div align='center'>Some Data Analysis Projects with Tableau</div></caption>
-<thead align='left'><tr><th>Project</th></tr></thead>
+<thead align='left'><tr><th colspan="3">Project</th></tr></thead>
 
 <tbody>
 <tr>
@@ -97,7 +97,7 @@
 </tr>
 </tbody>
 
-<thead align='left'><tr><th>Case Studies</th></tr></thead>
+<thead align='left'><tr><th colspan="3">Case Studies</th></tr></thead>
 <tbody>
 <tr>
     <td width= 25%>
